@@ -19,7 +19,7 @@
     "vue": "^2.5.16",
     "vue-chartjs": "^3.5.1",
     "vue-resource": "^1.5.1",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.5.3",
     "vue-underscore": "^0.1.4"
   },
   "devDependencies": {
