@@ -1,2 +1,2 @@
-FROM postgres:11.4
+FROM postgres:11.13
 COPY createdatabases.sql /docker-entrypoint-initdb.d/
