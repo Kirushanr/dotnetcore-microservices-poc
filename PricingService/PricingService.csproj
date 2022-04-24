@@ -17,7 +17,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.3" />
     <PackageReference Include="DynamicExpresso.Core" Version="2.4.0" />
     <PackageReference Include="GlobalExceptionHandler" Version="4.0.2" />
-    <PackageReference Include="Marten" Version="3.2.0" />
+    <PackageReference Include="Marten" Version="5.0.0" />
     <PackageReference Include="MediatR" Version="9.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
